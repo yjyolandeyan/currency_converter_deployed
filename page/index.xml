@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Your Favorite Currency Converter</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/</link>
+    <link>https://yjyolandeyan.github.io/currency_converter_deployed/page/</link>
     <description>Recent content in Docs on Your Favorite Currency Converter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CIS3500 Group 7</copyright>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yjyolandeyan.github.io/currency_converter_deployed/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap Carousel 🎠</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/bootstrap-carousel/</link>
+      <link>https://yjyolandeyan.github.io/currency_converter_deployed/page/bootstrap-carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/bootstrap-carousel/</guid>
+      <guid>https://yjyolandeyan.github.io/currency_converter_deployed/page/bootstrap-carousel/</guid>
       <description>Bootstrap Carousel A slideshow component for cycling through elements—images or slides of text — like a carousel.&#xA;See Carousel documentation.</description>
     </item>
     <item>
       <title>Bootstrap Components ✨</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/bootstrap-components/</link>
+      <link>https://yjyolandeyan.github.io/currency_converter_deployed/page/bootstrap-components/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/bootstrap-components/</guid>
+      <guid>https://yjyolandeyan.github.io/currency_converter_deployed/page/bootstrap-components/</guid>
       <description>Bootstrap Components Bootstrap is bundled with tens of components that can be reused to provide a good user experience and user interactions in a web page.&#xA;Accordion See Accordion documentation.&#xA;Alert See Alert documentation.&#xA;Badge Rounded pill&#xA;See Badge documentation.&#xA;Button Primary Secondary Success Danger Warning Info Light Dark&#xA;Link&#xA;See Button documentation.&#xA;Card See Card documentation.&#xA;List group See List group documentation.&#xA;Creating your own Read the customize components page to learn how build your own components.</description>
     </item>
     <item>
       <title>Markdown Cheat Sheet Ⓜ️⬇️</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/markdown-cheat-sheet/</link>
+      <link>https://yjyolandeyan.github.io/currency_converter_deployed/page/markdown-cheat-sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/markdown-cheat-sheet/</guid>
+      <guid>https://yjyolandeyan.github.io/currency_converter_deployed/page/markdown-cheat-sheet/</guid>
       <description>Markdown Cheat Sheet Hugo has excellent Markdown support out of the box. By default, Hugo uses the Goldmark Markdown processor which is fully CommonMark-compliant. See the configuration instructions to learn more about the extensions you can configure.&#xA;Overview You can refer to the table below for an overview of basic markdown syntax:&#xA;TASK MARKDOWN SYNTAX Heading 1 # Heading 2 ## Heading 3 ### Italics *italics* Bold **Bold** Strike ~~strike~~ Blockquote &amp;gt; Links [link name](https://link.</description>
     </item>
     <item>
       <title>Security Best Practices 🔒</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/security-best-practices/</link>
+      <link>https://yjyolandeyan.github.io/currency_converter_deployed/page/security-best-practices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/security-best-practices/</guid>
+      <guid>https://yjyolandeyan.github.io/currency_converter_deployed/page/security-best-practices/</guid>
       <description>Security Best Practices Improve code health of your web page following these best practices.&#xA;Use HTTPS All websites should be protected with HTTPS, even ones that don&amp;rsquo;t handle sensitive data. HTTPS prevents intruders from tampering with or passively listening in on the communications between your site and your users.&#xA;External Links When you link to a page on another site using the target=&amp;quot;_blank&amp;quot; attribute, you can expose your site to performance and security issues:</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy on Your Favorite Currency Converter</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/privacy/</link>
+    <link>https://yjyolandeyan.github.io/currency_converter_deployed/tags/privacy/</link>
     <description>Recent content in Privacy on Your Favorite Currency Converter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CIS3500 Group 7</copyright>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yjyolandeyan.github.io/currency_converter_deployed/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/privacy-policy/</link>
+      <link>https://yjyolandeyan.github.io/currency_converter_deployed/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/privacy-policy/</guid>
+      <guid>https://yjyolandeyan.github.io/currency_converter_deployed/privacy-policy/</guid>
       <description>Privacy Policy TLDR: We do not use cookies and we do not collect any personal data.&#xA;Website visitors No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized. Information we collect and what we use it for The server hosting this site can collect the following information:</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on Your Favorite Currency Converter</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/index/</link>
+    <link>https://yjyolandeyan.github.io/currency_converter_deployed/tags/index/</link>
     <description>Recent content in Index on Your Favorite Currency Converter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CIS3500 Group 7</copyright>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yjyolandeyan.github.io/currency_converter_deployed/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/</link>
+      <link>https://yjyolandeyan.github.io/currency_converter_deployed/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/</guid>
+      <guid>https://yjyolandeyan.github.io/currency_converter_deployed/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/</link>
+      <link>https://yjyolandeyan.github.io/currency_converter_deployed/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/</guid>
+      <guid>https://yjyolandeyan.github.io/currency_converter_deployed/post/</guid>
       <description></description>
     </item>
   </channel>
