@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Otto on Your Favorite Currency Converter</title>
+    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/mark-otto/</link>
+    <description>Recent content in Mark Otto on Your Favorite Currency Converter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CIS3500 Group 7</copyright>
+    <lastBuildDate>Tue, 30 Apr 2024 17:31:49 -0400</lastBuildDate>
+    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/mark-otto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap 5.3.0</title>
+      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/bootstrap-5-3-0/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0100</pubDate>
+      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/bootstrap-5-3-0/</guid>
+      <description>{ .img-fluid }&#xA;It’s official, the final stable release of v5.3.0 has landed! It’s been a monumental effort to revamp our codebase for CSS variables and color modes, one that will see continued changes leading up to an eventual Bootstrap 6. And we’re so excited to finally ship it!&#xA;On top of all the work that’s gone into this release, a lot has happened behind the scenes since we shipped our pre-releases.</description>
+    </item>
+    <item>
+      <title>Bootstrap 5.2.0 beta</title>
+      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/bootstrap-5-2-0-beta/</link>
+      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
+      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/bootstrap-5-2-0-beta/</guid>
+      <description>{ .img-fluid }&#xA;It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here! This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&#xA;Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. Keep reading for details.</description>
+    </item>
+  </channel>
+</rss>

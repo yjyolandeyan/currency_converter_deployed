@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bootstrap Theme on Your Favorite Currency Converter</title>
+    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/categories/hugo-bootstrap-theme/</link>
+    <description>Recent content in Hugo Bootstrap Theme on Your Favorite Currency Converter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>CIS3500 Group 7</copyright>
+    <lastBuildDate>Tue, 30 Apr 2024 17:31:49 -0400</lastBuildDate>
+    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/categories/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Bootstrap Theme alpha</title>
+      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/hugo-bootstrap-theme/</guid>
+      <description>Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🛡️ Security aware&#xA;Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.&#xA;⚡ Fast by default&#xA;Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.</description>
+    </item>
+  </channel>
+</rss>
