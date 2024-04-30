@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<section class="section bd-masthead">
+  <div class="container-xxl">
+    <div class="col-md-8 mx-auto text-center my-5">
+      <img class="d-block mx-auto mb-3" src="{{ `images/icon.svg` | relURL }}" width="150" height="150" alt="Bootstrap">
+      <h1 class="display-4 fw-semibold mb-3">{{ .Site.Title }}</h1>
+      <p class="lead mb-4">{{ .Site.Params.Description }}</p>
+      <p class="text-muted mb-0">Our product provides a Chrome extension meant to fetch the most up-to-date conversion ratio and can get the new price with the click of a button. Click the icon to select the your base and target currency, then you can get the new price by highlighting any price on a webpage.</p>
+      <br>
+      <a class="btn btn-bd-primary btn-lg px-4 mb-2" href="https://github.com/yjyolandeyan/currency_converter.git" role="button">Go to repo</a>
+
+    </div>
+  </div>
+</section>
+
+<section class="section container my-3">
+  {{ partial "features" . }}
+</section>
+
+
+{{ end }}
